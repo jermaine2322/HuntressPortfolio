@@ -2,6 +2,8 @@
 
 Job-specific professional portfolio for the Huntress SOC Support Specialist position.
 
+[View the live Huntress portfolio](https://jermaine2322.github.io/HuntressPortfolio/)
+
 ## Focus
 
 - Security incident triage and partner communication
