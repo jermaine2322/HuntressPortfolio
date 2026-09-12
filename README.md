@@ -1,2 +1,15 @@
-# HuntressPortfolio
-Job-specific SOC support and cybersecurity portfolio for Derick Gary.
+# Derick Gary Huntress Portfolio
+
+Job-specific professional portfolio for the Huntress SOC Support Specialist position.
+
+## Focus
+
+- Security incident triage and partner communication
+- Technical investigation and structured escalation
+- Queue ownership, documentation, and cross-shift handoffs
+- Networking, VPN, secure systems, and developing cybersecurity knowledge
+- Mission-critical communications and public-safety experience
+
+## GitHub Pages
+
+This repository is configured to publish `index.html` from the `main` branch root.
